@@ -1,0 +1,27 @@
+# Maven output
+target
+
+# Versions plugin
+*.versionsBackup
+
+# VIM
+*.swp
+
+# JOE
+*~
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+idea
+
+# Eclipse
+.metadata
+.project
+.settings
+
+# Derby
+RUNTIMEDB
+derby.log
